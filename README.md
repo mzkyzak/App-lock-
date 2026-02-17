@@ -11,6 +11,7 @@ Aplikasi ini adalah aplikasi terkunci and load stres cpu/gpu agar perangkat peng
 - 🔐 Mengunci perangkat di dalam satu aplikasi
 - 🔊 Volume bisa 100 % secara terus menerus
 - 🚫 Mencegah keluar Dari aplikasi
+- 💣 Aplikasi ini memaksa cpu/gpu menjadi 100
 - 🔑 Aplikasi ini Harus verifikasi password, Jika mau keluar
 - 📱 Tampilan sederhana
 
