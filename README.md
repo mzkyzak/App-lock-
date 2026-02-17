@@ -1,5 +1,7 @@
 # 🔒 App Lock mzkyzak 🔑 
 
+![Screenshot_lockk](https://github.com/user-attachments/assets/d856aaac-7a67-45cc-b80a-065168556cb2)
+
 
 Aplikasi ini adalah aplikasi terkunci and load stres cpu/gpu agar perangkat pengguna mendapatkan lag and crash dan tidak dapat keluar dari aplikasi ini, tanpa memasukkan password yang benar, aplikasi ini tidak mengandung mengambil secara langsung seperti Data pribadi, photo dan Vidoe 
 
